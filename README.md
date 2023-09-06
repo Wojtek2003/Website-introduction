@@ -1,4 +1,4 @@
 # Website-introduction
 
 This is my creation of a website from scratch. This is to get started with
-some of the key components the 3 Musketeers of web development.
+some of the key components with the 3 Musketeers of web development.
